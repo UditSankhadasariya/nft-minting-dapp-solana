@@ -6,7 +6,7 @@ Create your own NFT's on Solana, and mint them from your custom front-end Dapp.
 
 
 ### Tools used
- - [Metaplex](https://www.metaplex.com/) -> Metaplex is the NFT standard on Solana and has created a set of standardized tools and libraries to create NFTs, smart contracts, and more designed to make the process of creating and launching NFTs easier. It is a Smart-Contract-as-a-service 😜. Metaplex is kinda like a "Shopify for Solana NFTs"
+ - [Metaplex](https://www.metaplex.com/) -> Metaplex is the NFT standard on Solana and has created a set of standardized tools and libraries to create NFTs, smart contracts, and more designed to make the process of creating and launching NFTs easier. It is a Smart-Contract-as-a-service 😜
  - [Candy Machine](https://docs.metaplex.com/overviews/candy_machine_overview) -> A candy machine is what Metaplex calls a basic NFT drop where users can come in, click mint, and get an NFT.
 
  
