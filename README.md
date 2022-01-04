@@ -27,6 +27,7 @@ Create your own NFT's on Solana, and mint them from your custom front-end Dapp.
   solana config set --keypair ~/.config/solana/devnet.json
 ```
 - Airdrop some sols in the local wallet...with solana airdrop command.
+  
 UPLOAD
 - The upload command is essentially saying - "Hey Metaplex CLI, take all the NFT pairs in my assets folder, upload them to Arweave, initialize the candy machine config holding the pointers to these NFTs, and then save that config on Solana's devnet".
 ```bash
